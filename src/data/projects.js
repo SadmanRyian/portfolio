@@ -44,7 +44,7 @@ export const projects = [
     featured: false,
     tags: ["Networking", "Simulation", "Web"],
     tech: ["React.js", "Firebase", "Bootstrap", "DTN Architecture", "JavaScript"],
-    github: "https://github.com/sadmanriyanzisan",
+    github: "https://github.com/SadmanRyian",
     live: null,
     overview:
       "A web application that simulates Content-Centric Network (CCN) behavior within the ONE (Opportunistic Network Environment) Simulator framework, targeting Internet of Vehicles (IoV) scenarios where connectivity is intermittent and unreliable.",
@@ -79,7 +79,7 @@ export const projects = [
     featured: false,
     tags: ["Web", "Cloud", "SaaS"],
     tech: ["HTML", "CSS", "WordPress", "Cloud Hosting", "MySQL"],
-    github: "https://github.com/sadmanriyanzisan",
+    github: "https://github.com/SadmanRyian",
     live: "https://lm-sos-vk9o.vercel.app/",
     overview:
       "LibraryOS is a cloud-based library management system specifically designed for educational institutions in South Asia, with a focus on Bangladesh. It streamlines book inventory, member management, issue/return workflows, and automated fine calculation.",
@@ -114,7 +114,7 @@ export const projects = [
     featured: false,
     tags: ["Web", "E-Commerce", "UI/UX"],
     tech: ["HTML", "CSS", "WordPress", "Responsive Design"],
-    github: "https://github.com/sadmanriyanzisan",
+    github: "https://github.com/SadmanRyian",
     live: "https://gloss-wear.vercel.app/",
     overview:
       "GlossWear is a high-converting product landing page for a beauty and fashion brand. The design focuses on visual hierarchy, persuasive copy placement, and a clean aesthetic that drives user engagement and conversion.",
