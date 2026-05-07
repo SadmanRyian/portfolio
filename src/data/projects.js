@@ -80,7 +80,7 @@ export const projects = [
     tags: ["Web", "Cloud", "SaaS"],
     tech: ["HTML", "CSS", "WordPress", "Cloud Hosting", "MySQL"],
     github: "https://github.com/sadmanriyanzisan",
-    live: "https://libraryos.example.com",
+    live: "https://lm-sos-vk9o.vercel.app/",
     overview:
       "LibraryOS is a cloud-based library management system specifically designed for educational institutions in South Asia, with a focus on Bangladesh. It streamlines book inventory, member management, issue/return workflows, and automated fine calculation.",
     problem:
@@ -115,7 +115,7 @@ export const projects = [
     tags: ["Web", "E-Commerce", "UI/UX"],
     tech: ["HTML", "CSS", "WordPress", "Responsive Design"],
     github: "https://github.com/sadmanriyanzisan",
-    live: "https://glosswear.example.com",
+    live: "https://gloss-wear.vercel.app/",
     overview:
       "GlossWear is a high-converting product landing page for a beauty and fashion brand. The design focuses on visual hierarchy, persuasive copy placement, and a clean aesthetic that drives user engagement and conversion.",
     problem:
