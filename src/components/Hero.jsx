@@ -164,7 +164,7 @@ export default function Hero() {
             variants={item}
             className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2"
           >
-            <span className="font-mono text-xs text-muted tracking-widest">scroll</span>
+            <span className="font-mono text-xs text-muted tracking-widest"></span>
             <motion.div
               animate={{ y: [0, 8, 0] }}
               transition={{ repeat: Infinity, duration: 1.5, ease: 'easeInOut' }}
