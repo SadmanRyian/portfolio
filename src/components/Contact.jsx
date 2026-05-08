@@ -37,7 +37,7 @@ export default function Contact() {
           {/* Links */}
           <div className="mt-10 flex items-center justify-center gap-6">
             <a
-              href="https://github.com/sadmanriyanzisan"
+              href="https://github.com/SadmanRyian"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex items-center gap-2 text-text-dim hover:text-accent transition-colors duration-200 font-body text-sm"
@@ -47,7 +47,7 @@ export default function Contact() {
             </a>
             <span className="w-px h-4 bg-border" />
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/sadman-ryian-74bb1036b/"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex items-center gap-2 text-text-dim hover:text-accent transition-colors duration-200 font-body text-sm"
