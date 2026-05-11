@@ -83,7 +83,7 @@ export default function ProjectDetail() {
           <div className="mt-8 pt-8 border-t border-border flex flex-wrap gap-3">
             <a
               href={project.github}
-              target="_blank"
+              target="https://github.com/SadmanRyian/portfolio"
               rel="noopener noreferrer"
               className="px-5 py-2.5 bg-card border border-border hover:border-accent/40 text-text-dim hover:text-text font-display font-semibold text-sm rounded transition-all duration-200"
             >
@@ -92,7 +92,7 @@ export default function ProjectDetail() {
             {project.live ? (
               <a
                 href={project.live}
-                target="_blank"
+                target="https://github.com/SadmanRyian/portfolio"
                 rel="noopener noreferrer"
                 className="px-5 py-2.5 bg-accent text-bg font-display font-semibold text-sm rounded hover:bg-accent-dim transition-colors duration-200"
               >
