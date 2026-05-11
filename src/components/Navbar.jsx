@@ -68,7 +68,7 @@ export default function Navbar() {
             </button>
           ))}
           <a
-            href="https://github.com/sadmanriyanzisan"
+            href="https://github.com/SadmanRyian"
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-1.5 border border-border hover:border-accent/50 text-sm font-body text-text-dim hover:text-accent transition-all duration-200 rounded"
@@ -110,7 +110,7 @@ export default function Navbar() {
                 </button>
               ))}
               <a
-                href="https://github.com/sadmanriyanzisan"
+                href="https://github.com/SadmanRyian"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-text-dim hover:text-accent transition-colors duration-200 font-body"

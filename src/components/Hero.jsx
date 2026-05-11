@@ -144,7 +144,7 @@ export default function Hero() {
               <span className="absolute inset-0 bg-white/20 translate-x-[-100%] group-hover:translate-x-0 transition-transform duration-300 skew-x-12" />
             </button>
             <a
-              href="https://github.com/sadmanriyanzisan"
+              href="https://github.com/SadmanRyian"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 border border-border hover:border-accent/40 text-text-dim hover:text-text font-display font-semibold text-sm tracking-wide rounded transition-all duration-300"

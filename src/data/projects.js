@@ -7,7 +7,7 @@ export const projects = [
     featured: true,
     tags: ["AI/ML", "Deep Learning", "Healthcare"],
     tech: ["DenseNet121", "Transformer Attention", "Grad-CAM", "XAI", "Python", "PyTorch"],
-    github: "https://github.com/sadmanriyanzisan",
+    github: "https://github.com/SadmanRyian",
     live: null,
     overview:
       "UltrasoundNet is a web-based breast tumor classification system that leverages a hybrid deep learning architecture combining convolutional kernels with transformer attention mechanisms. It enables clinicians and researchers to evaluate ultrasound images even under low image quality conditions.",
